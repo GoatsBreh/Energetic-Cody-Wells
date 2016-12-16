@@ -87,3 +87,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Ren'Py compile and byte code files
+*.rpy[bc]
